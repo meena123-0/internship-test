@@ -1,0 +1,4 @@
+artifacts:
+  dvc-model:
+    path: .mlem/model/dvc-model
+    type: model
